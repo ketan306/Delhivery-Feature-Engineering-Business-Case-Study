@@ -1,13 +1,15 @@
 # Delhivery-Feature-Engineering-Business-Case-Study #
 This project focuses on feature engineering for Delhivery, India's largest and fastest-growing fully integrated logistics service provider. By leveraging data engineering and data science capabilities, this case study aims to enhance the quality, efficiency, and profitability of Delhivery’s operations.
 
-Business Problem
+## Business Problem ##
+
 Overall Objectives:
 
-Data Understanding and Processing:
-Clean, sanitize, and manipulate data to extract useful features.
-Process raw data to aid in building forecasting models.
-Perspectives:
+- Data Understanding and Processing:
+  - Clean, sanitize, and manipulate data to extract useful features.
+  - Process raw data to aid in building forecasting models.
+
+- Perspectives:
 From Delhivery’s Perspective:
 
 Market Leadership: Align the case study with Delhivery's objective to become the premier logistics player.
